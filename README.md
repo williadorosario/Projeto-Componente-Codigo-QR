@@ -6,6 +6,7 @@
  <br>
  <br>
  <h2>Image Mobile</h2>
+ <br>
  <h3 align="center">
  <img src="https://github.com/williadorosario/Projeto-Componente-Codigo-QR/blob/master/QR%20Code-Mobile-Responsivo.png?raw=true" />
  </h3>
