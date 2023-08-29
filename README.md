@@ -24,6 +24,6 @@
 <br>
 <h2>Desenvolvimento contínuo..</h2>
 <br>
-Estou me aperfeiçoando nessas linguagens a cada protejos para poder a cada dia desenvolver um bom trabalho.
+Estou me aperfeiçoando em HTML e CSS a cada protejos para poder a cada dia desenvolver um bom trabalho.
 <br>
 este projeto me ajudou muito a desenvolver habilidades em responsividades.
