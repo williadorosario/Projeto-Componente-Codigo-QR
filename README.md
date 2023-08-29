@@ -14,6 +14,8 @@
  <br>
  <h3>Construção com as tecnologias </h3>
  <br>
+  - Este projeto é um card de codigo QR code onde estão na versão Desktop e Mobile.
+  <br>
  - Marcação HTML5 semântica
   <br>
 - Propriedades personalizadas CSS
