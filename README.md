@@ -1,4 +1,4 @@
- <h1>Projeto-Card-Codigo-QR</h1>
+ <h1 align="center"> Projeto Card Codigo QR</h1>
  <br>
  <br>
  <h2>Image Desktop</h2>
@@ -19,3 +19,9 @@
 - Propriedades personalizadas CSS
  <br>
 - Fluxo de trabalho voltado para dispositivos móveis
+<br>
+<h2>Desenvolvimento contínuo..</h2>
+<br>
+Estou me aperfeiçoando nessas linguagens a cada protejos para poder a cada dia desenvolver um bom trabalho.
+<br>
+este projeto me ajudou muito a desenvolver habilidades em responsividades.
